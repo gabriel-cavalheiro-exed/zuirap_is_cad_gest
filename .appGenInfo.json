@@ -1,0 +1,29 @@
+{
+  "generationParameters": {
+    "generationDate": "Sat Feb 07 2026 18:24:00 GMT-0300 (Brasilia Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "OData URL",
+    "metadataFilename": "",
+    "serviceUrl": "https://my430374.s4hana.cloud.sap/sap/opu/odata4/sap/zui_is_cad_gestao_o4/srvd/sap/zui_is_cad_gestao/0001",
+    "appName": "zuirap_is_cad_gestao",
+    "appTitle": "Cadastro Gestão",
+    "appDescription": "Inside Sales - Cadastro de Gestão",
+    "appNamespace": "br.com.gamma",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.136.12",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.20.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "ZC_IS_CAD_GESTAO"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
