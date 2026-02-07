@@ -34,6 +34,20 @@
           "odataVersion": "4.0"
         }
       }
+    },
+    "crossNavigation": {
+      "inbounds": {
+        "ZUI_IS_CAD_GESTAO-display": {
+          "semanticObject": "ZUI_IS_CAD_GESTAO",
+          "action": "display",
+          "title": "{{ZUI_IS_CAD_GESTAO-display.flpTitle}}",
+          "subTitle": "{{ZUI_IS_CAD_GESTAO-display.flpSubtitle}}",
+          "signature": {
+            "parameters": {},
+            "additionalParameters": "allowed"
+          }
+        }
+      }
     }
   },
   "sap.ui": {
